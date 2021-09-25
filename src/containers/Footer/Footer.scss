@@ -1,0 +1,15 @@
+.footer {
+    background-color: #003d80;
+    &__text {
+        color: white;
+        line-height: 16px;
+        font-size: 16px;
+        margin: 0;
+        font-family: 'Montserrat', sans-serif;
+        padding: 10px;
+        text-align: center;
+    }
+}
+.wrapper {
+    justify-content: center;
+}
